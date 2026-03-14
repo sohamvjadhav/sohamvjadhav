@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232&height=120&section=header&text=Soham%20Jadhav&fontSize=36&fontColor=faf9f6&fontAlignY=65&desc=Full%20Stack%20%26%20AI%20Engineer&descAlignY=85&descColor=e8d575" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232&height=120&section=header&text=Soham%20Jadhav&fontSize=36&fontColor=faf9f6&fontAlignY=65" width="100%" />
 
 </div>
 
