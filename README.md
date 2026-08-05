@@ -27,8 +27,7 @@ Cloud    →  AWS · Oracle · Hugging Face
 | [Mule-Hunt](https://github.com/sohamvjadhav/Mule-Hunt) | GNN pipeline that catches coordinated fraud rings in UPI-style payment graphs — ring-aware splits, GNNExplainer, drift monitoring, FastAPI dashboard. |
 | [Catalyst](https://huggingface.co/sohamvjadhav/catalyst) | Gemma-4 2B fine-tuned with Unsloth for instruction-following on consumer hardware. |
 | [qwen3.5-2b-sppu-theory-qa](https://huggingface.co/sohamvjadhav/qwen3.5-2b-sppu-theory-qa) | Domain-specific Qwen3.5 fine-tune for SPPU theory questions. |
-| [Aura](https://github.com/sohamvjadhav/aura) | Conversational AI app built with React, Vite, and Gemini. |
-| [PACE Atlas](https://github.com/sohamvjadhav/pace-atlas) | Fork of Hermes Agent rebranded into an AI SRE — telemetry, smart alerts, root-cause analysis, cost optimization, and predictive insights for your cloud instances. |
+| [PACE Atlas](https://github.com/sohamvjadhav/pace-atlas) | AI SRE agent that lives inside your cloud instance — collects CPU/memory/disk/network/security telemetry, runs LLM-powered root-cause analysis, flags cost waste, forecasts problems before they become incidents, and alerts only when it matters. |
 
 ---
 
