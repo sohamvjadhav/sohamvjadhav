@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232:1a2b22&height=150&section=header&text=Soham%20Jadhav&fontSize=38&fontColor=faf9f6&fontAlignY=62&desc=Clear%20thinking.%20Clean%20code.%20Calm%20execution.&descSize=16&descColor=e8d575&descAlignY=88" width="100%" />
+<img src="https://raw.githubusercontent.com/sohamvjadhav/sohamvjadhav/main/assets/header.svg" width="100%" alt="Soham Jadhav" />
 
 *Final-year Computer Engineering · SPPU · Pune, India*
 *Building at the intersection of **web** and **machine intelligence** · Open to opportunities*
@@ -99,5 +99,5 @@ Recent: *Paper Strips and Algorithms* · *My First Domain Buying Experience*
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232:1a2b22&height=90&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/sohamvjadhav/sohamvjadhav/main/assets/footer.svg" width="100%" alt="Built with curiosity" />
 </div>
