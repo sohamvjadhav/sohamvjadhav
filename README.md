@@ -30,7 +30,7 @@ Currently gaining industry experience, fine-tuning LLMs on consumer hardware, an
 ```
 Web      →  React · Node.js · PHP/Laravel · TypeScript · Cloudflare Pages
 AI/ML    →  Unsloth · LoRA/QLoRA · GGUF/Q8 Quantization · Gemini · Groq
-Cloud    →  AWS Free Tier · Oracle Cloud · Google Colab · Hugging Face
+Cloud    →  AWS · Oracle Cloud · Google Colab · Hugging Face
 ```
 
 ---
