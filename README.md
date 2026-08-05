@@ -39,7 +39,10 @@ Cloud    →  AWS · Oracle · Hugging Face
 
 <div align="center">
 
-[latticeleaf.com](https://latticeleaf.com) · [huggingface.co/sohamvjadhav](https://huggingface.co/sohamvjadhav) · [x.com/sohamvjadhav](https://x.com/sohamvjadhav) · [github.com/sohamvjadhav](https://github.com/sohamvjadhav)
+[![Portfolio](https://img.shields.io/badge/latticeleaf.com-0e5232?style=for-the-badge&logo=firefox&logoColor=e8d575)](https://latticeleaf.com)
+[![Hugging Face](https://img.shields.io/badge/%40sohamvjadhav-e8d575?style=for-the-badge&logo=huggingface&logoColor=1a2b22)](https://huggingface.co/sohamvjadhav)
+[![X](https://img.shields.io/badge/%40sohamvjadhav-1a2b22?style=for-the-badge&logo=x&logoColor=faf9f6)](https://x.com/sohamvjadhav)
+[![GitHub](https://img.shields.io/badge/%40sohamvjadhav-2b2b2b?style=for-the-badge&logo=github&logoColor=faf9f6)](https://github.com/sohamvjadhav)
 
 </div>
 
