@@ -1,17 +1,15 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232&height=120&section=header&text=Soham%20Jadhav&fontSize=36&fontColor=faf9f6&fontAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232:1a2b22&height=150&section=header&text=Soham%20Jadhav&fontSize=38&fontColor=faf9f6&fontAlignY=62&desc=Clear%20thinking.%20Clean%20code.%20Calm%20execution.&descSize=16&descColor=e8d575&descAlignY=88" width="100%" />
 
-</div>
+*Final-year Computer Engineering · SPPU · Pune, India*
+*Building at the intersection of **web** and **machine intelligence** · Open to opportunities*
 
----
-
-<div align="center">
-
-*Clear thinking. Clean code. Calm execution.*
-
-**Pune, India · Open to opportunities**
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sohamvjadhav.sohamvjadhav)](https://github.com/sohamvjadhav)
+[![Portfolio](https://img.shields.io/badge/Portfolio-latticeleaf.com-faf9f6?style=flat-square&labelColor=0e5232&color=0e5232)](https://latticeleaf.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%40sohamvjadhav-e8d575?style=flat-square&labelColor=1a2b22&color=e8d575)](https://huggingface.co/sohamvjadhav)
+[![X](https://img.shields.io/badge/X-%40sohamvjadhav-faf9f6?style=flat-square&labelColor=1a2b22&color=1a2b22)](https://x.com/sohamvjadhav)
 
 </div>
 
@@ -19,19 +17,34 @@
 
 ### ⌥ About
 
-Final-year Computer Engineering student at SPPU, building at the intersection of **web** and **machine intelligence**. I obsess over constraint-based engineering — shipping fast, running lean, deploying smart.
-
-Currently gaining industry experience, fine-tuning LLMs on consumer hardware, and writing about it.
+I obsess over constraint-based engineering — shipping fast, running lean, deploying smart. I currently spend my time fine-tuning LLMs on consumer hardware (Unsloth, LoRA/QLoRA, GGUF/Q8), building GNN pipelines for fraud detection, and writing about the whole journey at **[latticeleaf.com](https://latticeleaf.com)**.
 
 ---
 
 ### ⌘ Stack
 
-```
-Web      →  React · Node.js · PHP/Laravel · TypeScript · Cloudflare Pages
-AI/ML    →  Unsloth · LoRA/QLoRA · GGUF/Q8 Quantization · Gemini · Groq
-Cloud    →  AWS · Oracle Cloud · Google Colab · Hugging Face
-```
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&labelColor=1a2b22)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000&labelColor=1a2b22)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff&labelColor=1a2b22)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&labelColor=1a2b22)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=fff&labelColor=1a2b22)
+![PyTorch Geometric](https://img.shields.io/badge/PyG-4CAF50?style=for-the-badge&logo=pytorch&logoColor=fff&labelColor=1a2b22)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff&labelColor=1a2b22)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff&labelColor=1a2b22)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff&labelColor=1a2b22)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-e8d575?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=1a2b22)
+![Unsloth](https://img.shields.io/badge/Unsloth-e8d575?style=for-the-badge&logo=huggingface&logoColor=000&labelColor=1a2b22)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=fff&labelColor=1a2b22)
+
+</div>
+
+---
+
+### ⌘ Services
+
+Cloud services I run with: **AWS · Oracle Cloud · Google Colab · Hugging Face**
 
 ---
 
@@ -39,7 +52,10 @@ Cloud    →  AWS · Oracle Cloud · Google Colab · Hugging Face
 
 | Project | What | Stack |
 |--------|------|-------|
-| [Qwen3.5-2B Fine-tuned](https://huggingface.co/sohamvjadhav) | Domain-specific LLM, 2× faster training on consumer hardware | Unsloth · Transformers · GGUF |
+| [Mule-Hunt](https://github.com/sohamvjadhav/Mule-Hunt) | GNN fraud detection for UPI payment graphs — catches mule accounts & coordinated fraud rings via ring-aware training, GNNExplainer, drift monitoring & a FastAPI dashboard | Python · PyG · GraphSAGE/GCN/GATv2 · FastAPI |
+| [Catalyst](https://huggingface.co/sohamvjadhav/catalyst) | Gemma-4 2B instruction-tuned with Unsloth for agentic workflows, trained 2× faster on consumer hardware | Gemma-4 · Unsloth · TRL · GGUF |
+| [Qwen3.5-2B SPPU Theory QA](https://huggingface.co/sohamvjadhav/qwen3.5-2b-sppu-theory-qa) | Domain-specific LLM answering SPPU theory questions, fine-tuned on consumer hardware | Qwen3.5 · Unsloth · Transformers |
+| [Kimi-K3](https://huggingface.co/sohamvjadhav/Kimi-K3) | Continued fine-tune exploration of the Kimi-K3 instruction model | Kimi-K3 · Unsloth |
 | [Aura](https://github.com/sohamvjadhav/aura) | AI-powered conversational app | React · Vite · TypeScript · Gemini |
 | [Wind Power Play](https://github.com/sohamvjadhav/wind-power-play) | Sustainability-focused data tool | TypeScript |
 
@@ -55,6 +71,19 @@ Recent: *Paper Strips and Algorithms* · *My First Domain Buying Experience*
 
 ---
 
+### 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sohamvjadhav&show_icons=true&count_private=true&hide_border=true&title_color=e8d575&icon_color=e8d575&text_color=faf9f6&bg_color=1a2b22&hide_rank=false" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamvjadhav&layout=compact&hide_border=true&title_color=e8d575&text_color=faf9f6&bg_color=1a2b22" height="180" />
+
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamvjadhav&theme=github-dark&bg_color=1a2b22&color=e8d575&line=0e5232&point=faf9f6&hide_border=true" width="100%" />
+
+---
+
 ### ⇢ Find me
 
 <div align="center">
@@ -63,11 +92,12 @@ Recent: *Paper Strips and Algorithms* · *My First Domain Buying Experience*
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-sohamvjadhav-e8d575?style=flat-square&labelColor=1a2b22&color=e8d575)](https://huggingface.co/sohamvjadhav)
 [![X](https://img.shields.io/badge/X-sohamvjadhav-1a2b22?style=flat-square&labelColor=faf9f6&color=1a2b22)](https://x.com/sohamvjadhav)
 [![GitHub](https://img.shields.io/badge/GitHub-sohamvjadhav-555?style=flat-square&labelColor=faf9f6&color=555)](https://github.com/sohamvjadhav)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-0e5232?style=flat-square&labelColor=faf9f6&color=0e5232)](mailto:sohamvjadhav@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232&height=80&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e5232:1a2b22&height=90&section=footer" width="100%" />
 </div>
