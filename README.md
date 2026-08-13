@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sohamvjadhav/sohamvjadhav/main/assets/header.svg?v=3" width="100%" alt="Soham Jadhav" />
+<img src="https://raw.githubusercontent.com/sohamvjadhav/sohamvjadhav/main/assets/header-albertsans.svg" width="100%" alt="Soham Jadhav" />
 
 <br />
 
@@ -140,6 +140,6 @@ the truth about what a project can and cannot do.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sohamvjadhav/sohamvjadhav/main/assets/footer.svg?v=3" width="100%" alt="Built with curiosity · Pune, India" />
+<img src="https://raw.githubusercontent.com/sohamvjadhav/sohamvjadhav/main/assets/footer-albertsans.svg" width="100%" alt="Built with curiosity · Pune, India" />
 
 </div>
