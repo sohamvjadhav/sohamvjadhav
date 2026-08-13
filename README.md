@@ -14,18 +14,17 @@
 
 ## Hey, I'm Soham 👋
 
-Final-year Computer Engineering student at SPPU, based in Pune. I take
-ambitious technical ideas from a rough mental model to a working, observable
-product — and I ship the ones that deserve it.
+Final-year Computer Engineering student at SPPU, based in Pune. I like taking
+ambitious technical ideas all the way from a rough mental model to a working,
+observable product.
 
-My work spans **software systems, machine intelligence, and thoughtful
-product design**: graph neural networks that find coordinated fraud rings,
-small models fine-tuned on consumer hardware, and autonomous agents that
-operate inside real cloud environments.
+My work sits at the intersection of **software systems, machine intelligence,
+and thoughtful product design** — from GNNs that find coordinated fraud to
+small models fine-tuned on consumer hardware and agents that operate inside
+real cloud environments.
 
-> I'm interested in the space between **a model that works in a notebook**
-> and **a system that can be trusted in the world** — the evaluation, the
-> failure modes, and the discipline that live there.
+> I’m especially interested in the space between **a model that works in a
+> notebook** and **a system that can be trusted in the world**.
 
 <div align="center">
 
@@ -46,8 +45,8 @@ operate inside real cloud environments.
 **Graph-neural-network fraud detection for UPI payment graphs.**
 
 Finds mule accounts and coordinated fraud rings that transaction-by-transaction
-rules miss. Ring-aware evaluation, GNN explanations, drift monitoring, and a
-FastAPI dashboard.
+rules miss. Includes ring-aware evaluation, GNN explanations, drift monitoring,
+and a FastAPI dashboard.
 
 `PyTorch` `PyG` `FastAPI` `GNNs`
 
@@ -56,11 +55,10 @@ FastAPI dashboard.
 
 ### [PACE Atlas](https://github.com/sohamvjadhav/pace-atlas)
 
-**An AI SRE agent that lives inside cloud instances.**
+**An AI SRE agent for real cloud environments.**
 
-Collects telemetry, investigates root causes, forecasts operational problems,
-and alerts only when an action matters. Also published as a standalone
-pip package (`pip install pace-atlas`).
+Collects infrastructure telemetry, investigates root causes, surfaces cost
+waste, forecasts operational problems, and alerts only when an action matters.
 
 `AI agents` `SRE` `Telemetry` `Cloud`
 
@@ -73,9 +71,9 @@ pip package (`pip install pace-atlas`).
 
 **An Android volume controller driven by movement.**
 
-GPS as the authoritative vehicle-speed signal, with a self-calibrating
-step-sensor fallback for walking and running. Hardened for foreground
-execution, lock-screen use, and OEM battery policies.
+Uses GPS as the authoritative vehicle-speed signal, with a self-calibrating
+step-sensor fallback for walking and running. Built with platform APIs and
+hardened for foreground execution, lock-screen use, and OEM battery policies.
 
 `Kotlin` `Android` `GPS` `Sensors`
 
@@ -86,8 +84,8 @@ execution, lock-screen use, and OEM battery policies.
 
 **A compact Gemma 2B instruction model.**
 
-Fine-tuned with Unsloth on consumer hardware — useful model experimentation
-without a large training budget, from data to evaluation.
+Fine-tuned with Unsloth on consumer hardware, focused on making useful model
+experimentation accessible without a large training budget.
 
 `Gemma` `Unsloth` `Hugging Face`
 
