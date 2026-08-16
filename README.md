@@ -120,8 +120,8 @@ understand the problem  →  build the smallest useful system
 ```
 
 I care about the parts that are easy to skip: clear assumptions, meaningful
-evaluation, failure modes, observable behavior, and documentation that tells
-the truth about what a project can and cannot do.
+evaluation, failure modes, observable behavior, and documentation that
+tells the truth about what a project can and cannot do.
 
 ---
 
