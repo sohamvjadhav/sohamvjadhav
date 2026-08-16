@@ -90,6 +90,21 @@ experimentation accessible without a large training budget.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [FloodSense](https://github.com/sohamvjadhav/floodsense)
+
+**Flood-risk forecasting for Maharashtra's river basins.**
+
+A GRU sequence model that predicts flood risk 24–72h ahead over the Godavari,
+Krishna & Konkan basins — upstream-lag spatial features, isotopic calibration
+(4 risk tiers), and baseline ablation against a stacking classifier.
+
+`GRU` `Time Series` `ML` `Climate`
+
+</td>
+</tr>
 </table>
 
 <div align="center">
