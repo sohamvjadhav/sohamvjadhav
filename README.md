@@ -14,9 +14,8 @@
 
 ## Hey, I'm Soham 👋
 
-Final-year Computer Engineering student at SPPU, based in Pune. I like taking
-ambitious technical ideas all the way from a rough mental model to a working,
-observable product.
+Final-year Computer Engineering student at SPPU, based in Pune. I like taking ambitious technical ideas from a rough
+mental model to a working, observable product.
 
 My work sits at the intersection of **software systems, machine intelligence,
 and thoughtful product design** — from GNNs that find coordinated fraud to
