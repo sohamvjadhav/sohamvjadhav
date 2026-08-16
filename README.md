@@ -19,8 +19,8 @@ mental model to a working, observable product.
 
 My work sits at the intersection of **software systems, machine intelligence,
 and thoughtful product design** — from GNNs that find coordinated fraud to
-small models fine-tuned on consumer hardware and agents that operate inside
-real cloud environments.
+small models fine-tuned on consumer hardware, and agents that operate
+inside real cloud environments.
 
 > I’m especially interested in the space between **a model that works in a
 > notebook** and **a system that can be trusted in the world**.
