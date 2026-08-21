@@ -10,15 +10,17 @@
       text { font-family: 'Albert Sans', 'Helvetica Neue', Arial, sans-serif; }
     </style>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0e5232"/>
+      <stop offset="0%" stop-color="#0e5232"><animate attributeName="stop-color" values="#0e5232;#17603c;#0e5232" dur="9s" repeatCount="indefinite"/></stop>
       <stop offset="100%" stop-color="#1a2b22"/>
     </linearGradient>
     <path id="wave" d="M0,150 C120,118 250,118 370,138 C490,158 610,160 730,142 C850,124 930,128 1000,138 L1000,170 L0,170 Z" fill="#faf9f6" opacity="0.08"/>
     <path id="wave2" d="M0,160 C140,136 300,136 420,152 C540,168 680,168 810,154 C890,146 950,150 1000,156 L1000,170 L0,170 Z" fill="#e8d575" opacity="0.12"/>
+  <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.16"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
   </defs>
   <rect width="1000" height="170" fill="url(#bg)"/>
-  <use href="#wave"/>
-  <use href="#wave2"/>
+  <rect x="-280" y="0" width="280" height="170" fill="url(#shimmer)"><animate attributeName="x" from="-280" to="1000" dur="8s" repeatCount="indefinite"/></rect>
+  <g><use href="#wave"/><animateTransform attributeName="transform" type="translate" values="0 0; 46 0; 0 0" dur="14s" repeatCount="indefinite"/></g>
+  <g><use href="#wave2"/><animateTransform attributeName="transform" type="translate" values="0 0; -60 0; 0 0" dur="18s" repeatCount="indefinite"/></g>
   <text x="500" y="86" text-anchor="middle" fill="#faf9f6" font-size="46" font-weight="700" letter-spacing="1">Soham Jadhav</text>
-  <text x="500" y="124" text-anchor="middle" fill="#e8d575" font-size="18" font-weight="400" letter-spacing="4">CLEAR THINKING · CLEAN CODE · CALM EXECUTION</text>
+  <text x="500" y="124" text-anchor="middle" fill="#e8d575" font-size="18" font-weight="400" letter-spacing="4">CLEAR THINKING · CLEAN CODE · CALM EXECUTION<animate attributeName="opacity" values="0.82;1;0.82" dur="5s" repeatCount="indefinite"/></text>
 </svg>

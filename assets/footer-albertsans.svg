@@ -10,13 +10,15 @@
       text { font-family: 'Albert Sans', 'Helvetica Neue', Arial, sans-serif; }
     </style>
     <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0e5232"/>
+      <stop offset="0%" stop-color="#0e5232"><animate attributeName="stop-color" values="#0e5232;#17603c;#0e5232" dur="9s" repeatCount="indefinite"/></stop>
       <stop offset="100%" stop-color="#1a2b22"/>
     </linearGradient>
     <path id="fwave" d="M0,30 C120,62 250,62 370,42 C490,22 610,20 730,38 C850,56 930,52 1000,42 L1000,90 L0,90 Z" fill="#faf9f6" opacity="0.08"/>
     <path id="fwave2" d="M0,20 C140,44 300,44 420,28 C540,12 680,12 810,26 C890,34 950,30 1000,24 L1000,90 L0,90 Z" fill="#e8d575" opacity="0.12"/>
+  <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.16"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
   </defs>
   <rect width="1000" height="90" fill="url(#fbg)"/>
+  <rect x="-280" y="0" width="280" height="170" fill="url(#shimmer)"><animate attributeName="x" from="-280" to="1000" dur="8s" repeatCount="indefinite"/></rect>
   <use href="#fwave"/>
   <use href="#fwave2"/>
   <text x="500" y="72" text-anchor="middle" fill="#faf9f6" font-size="15" font-weight="400" letter-spacing="3">BUILT WITH CURIOSITY · PUNE, INDIA</text>
